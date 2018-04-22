@@ -1,0 +1,16 @@
+{
+  "name": "@rammbulanz/regex-constants",
+  "version": "1.0.0",
+  "main": "dist/regex-constants.js",
+  "repository": "https://github.com/marder/regex-constants.git",
+  "author": "marder <iwashier@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "src",
+    "index.d.ts",
+    "LICENCE",
+    "README.md",
+    "package.json"
+  ]
+}
