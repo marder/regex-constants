@@ -1,1 +1,1 @@
-export * from './dist/regex-constants'
+export * from './build/regex-constants'
